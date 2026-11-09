@@ -24,18 +24,29 @@ Ahora debemos de conectar los cables al paradise, deben de estar asi conectados:
 Y ya lo podemos conectar al pc, quedará algo así:
 **(Hay que asegurar que no se muevan los cables del paradise, deben de estar bien pinchados ya que si se mueven en el proceso se pueden corromper los datos)**
 
+![lessen](paradise/images/lessen.png)
+
 Y vamos al paramix:
 <https://mameise.github.io/Paramix-Studio/> 
 
 Dentro de la web debemos de ir a **Device** y se nos desplegará el apartado.
 
+![device](paradise/images/device.png)
+
 Ahora, en nuestro paradise (ya conectados los pinchos al tamagotchi y el usb al pc), debemos de ir al menú del planeta -> Conexión -> Descargar -> Descargar.
 
 Le damos a connect en el paramix.
 
-Se abrirá una pop up (ventana emergente) pidiendo un conector serial (yo uso opera gx y me aparecen así los serial). Le damos a conectar.
+![connect](paradise/images/connect.png)
 
+Se abrirá una pop up (ventana emergente) pidiendo un conector serial (yo uso opera gx y me aparecen así los serial).
+
+![serial](paradise/images/serial.png)
+
+Le damos a conectar.
 Nos aparecerá Conectando en nuestro paradise. Una vez conectado, nos aparecerá así en la pantalla del paradise: BEREIT (Significa “Listo”).
+
+![conectando](paradise/images/conectando.png)
 
 Ahora le damos a **Read ROM** en el paramix y esperamos.
 
