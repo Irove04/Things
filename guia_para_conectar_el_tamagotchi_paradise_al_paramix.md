@@ -8,11 +8,16 @@
 * Y los .bin, que son las ROM. (**por razones obvias no voy a decir donde encontrarlos, sorry**)
 
 Una vez lo tengamos todo lo primero de todo es cambiar el voltaje, para ello movemos el “plastico” amarillo del lateral a los “pinchos” **S1** y **3,3v**. Debe de quedar tal cual esta foto.
-![voltios](tama)
+
+![voltios](paradise/images/voltios.png)
 
 Ahora conectamos los cables hembra a los pines RXD, GND y TXD, debe de quedar así: **(recomiendo usar diferentes colores para los cables asi sabemos cual es cual)**
 
+![usb](paradise/images/usb.png)
+
 **(Antes de nada, asegura que tienes baterias NUEVAS en el paradise, ya que si se termina la conexión a mitad puedes perder datos o peor, corromperlos, dejando el paradise tieso)**
+
+![conexiones](paradise/images/conexiones.png)
 
 Ahora debemos de conectar los cables al paradise, deben de estar asi conectados:
 
