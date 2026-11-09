@@ -44,11 +44,17 @@ Se abrirá una pop up (ventana emergente) pidiendo un conector serial (yo uso op
 ![serial](paradise/images/serial.png)
 
 Le damos a conectar.
-Nos aparecerá Conectando en nuestro paradise. Una vez conectado, nos aparecerá así en la pantalla del paradise: BEREIT (Significa “Listo”).
+Nos aparecerá Conectando en nuestro paradise. 
+
+![bereit](paradise/images/bereit.png)
+
+Una vez conectado, nos aparecerá así en la pantalla del paradise: BEREIT (Significa “Listo”).
 
 ![conectando](paradise/images/conectando.png)
 
 Ahora le damos a **Read ROM** en el paramix y esperamos.
+
+![readRom](paradise/images/readRom.png)
 
 Veremos algo así en nuestro paradise: LESEN (Significa “leyendo”).
 
