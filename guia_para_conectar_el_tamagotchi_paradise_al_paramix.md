@@ -79,7 +79,7 @@ Saldrá así en el Paradise: SCHREIBEN (Significa “Escribiendo”).
 En el paramix nos pondrá algo por ejemplo (Así me aparece a mi en el paramix cuando ha terminado):
 **Backed up: water-20261021-2328.tamasave, ps-20261021-2329.sav.** 
 
-![backedUp(paradise/images/backedUp.png)
+![backedUp](paradise/images/backedUp.png)
 
 **(Seguirá saliendo “Schreiben” en la pantalla del paradise, no preocuparse, eso es que ahora está listo para escribir lo nuevo)**
 **(Se nos descargarán tanto nuestra rom como nuestro save a nuestro pc)** 
