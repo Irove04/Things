@@ -56,19 +56,37 @@ Ahora le damos a **Read ROM** en el paramix y esperamos.
 
 ![readRom](paradise/images/readRom.png)
 
-Veremos algo así en nuestro paradise: LESEN (Significa “leyendo”).
+Veremos algo así en nuestro paradise: 
 
-Una vez ha terminado en nuestro paradise pondrá esto: FERTIG (Significa “Terminado”).
+![lesen2](paradise/images/lesen2.png)
 
-Le damos a **backup** (para guardarnos una copia, **muy importante** si no queremos perder nada). Saldrá así en el Paradise: SCHREIBEN (Significa “Escribiendo”).
+LESEN (Significa “leyendo”).
+
+Una vez ha terminado en nuestro paradise pondrá esto: 
+
+![fertig](paradise/images/fertig.png)
+
+FERTIG (Significa “Terminado”).
+
+Le damos a **backup** (para guardarnos una copia, **muy importante** si no queremos perder nada). 
+
+![backUp](paradise/images/backUp.png)
+
+Saldrá así en el Paradise: SCHREIBEN (Significa “Escribiendo”).
+
+![escribiendo](paradise/images/escribiendo.png)
 
 En el paramix nos pondrá algo por ejemplo (Así me aparece a mi en el paramix cuando ha terminado):
 **Backed up: water-20261021-2328.tamasave, ps-20261021-2329.sav.** 
+
+![backedUp(paradise/images/backedUp.png)
 
 **(Seguirá saliendo “Schreiben” en la pantalla del paradise, no preocuparse, eso es que ahora está listo para escribir lo nuevo)**
 **(Se nos descargarán tanto nuestra rom como nuestro save a nuestro pc)** 
 
 Ahora veremos que tenemos varias opciones:
+
+![variasOpciones](paradise/images/variasOpciones.png)
 
 Le damos a **Emulator**.
 
