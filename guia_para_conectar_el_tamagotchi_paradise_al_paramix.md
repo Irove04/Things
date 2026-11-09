@@ -90,7 +90,11 @@ Ahora veremos que tenemos varias opciones:
 
 Le damos a **Emulator**.
 
+![emulator](paradise/images/emulator.png)
+
 Dentro le damos a: Choose firmware or ROM.
+
+![chooseFoR](paradise/images/chooseFoR.png)
 
 Se nos abrirá una carpeta, tenemos que ir a donde tenemos la rom que queramos meter, yo por ejemplo voy a poner la del ps.
 
